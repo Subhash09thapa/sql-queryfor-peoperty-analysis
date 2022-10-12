@@ -1,0 +1,1 @@
+# sql-queryfor-peoperty-analysis
